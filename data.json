@@ -1,0 +1,53 @@
+{
+	"details":{
+		"image":"images.jpg",
+		"name":"madhu",
+		"phoneno":"+91-6754385643",
+		"email":"dsmadhu98@gmail.com",
+		"address":"vignan's nirula college,palakaluru,guntur."
+	},
+	"career":{
+		"info":"to be a well and good software engineer."
+	},
+	"education":[
+		{
+			"qualification":"b.tech",
+			"institute":"vignan's nirula college",
+			"year":"2016-2020",
+			"percentage":"98%"
+		},
+		{
+			"qualification":"intermediate",
+			"institute":"sri chaitanya",
+			"year":"2014-2016",
+			"percentage":"88%"
+		},
+		{
+			"qualification":"schooling",
+			"institute":"gowtham",
+			"year":"2014",
+			"percentage":"98%"
+		}
+	],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","c++","java","python"]
+	},
+	{
+		"title":"database",
+		"info":["sql","mysql","oracle"]
+	},
+	{
+		"title":"operating system",
+		"info":["windows","macos","linux"]
+	}
+	],
+	"achievements":[
+		{
+			"info":["got first prize in gd"]
+		},
+		{
+		"info":	["got plin guiness world record"]	
+		}
+	]
+}
